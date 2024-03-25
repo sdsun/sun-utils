@@ -1,4 +1,4 @@
-// js 配置文件 change dev 修改  再次修改dev  修改呀-----  修改main
+// 生产配置
 const dev = []
 
 const a = []
